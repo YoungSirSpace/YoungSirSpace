@@ -19,11 +19,4 @@ Hello there! I am a computer science student of Nanjing University. As a beginne
 
 ## Contact
 
--Gmail <a href="https://mail.google.com/mail/?view=cm&fs=1&to=young30030prc%40gmail.com">
-  <img src="/gmail-icon-logo.png" width="28" style="vertical-align:middle" alt="Gmail"/>
-</a>
-
-
--My personal blog <a href="https://youngsirspace.github.io/">
-  <img src="/favicon.ico" width="28" style="vertical-align:middle" alt="MyBlog"/>
-</a>
+[![Send email to me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=young30030prc%40gmail.com)

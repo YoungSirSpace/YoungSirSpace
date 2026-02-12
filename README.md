@@ -9,7 +9,7 @@ I enjoy experimenting, reading, and thinking about both theory and practice.
 I also maintain a [**personal blog**](https://youngsirspace.github.io/) where I write about my learning notes and thoughts.
 It is still a work under development, but you are very welcome to take a look.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoungSirSpace)
 
 ## Contact
 

@@ -19,6 +19,6 @@ Hello there! I am a computer science student of Nanjing University. As a beginne
 
 ## Contact
 
-- Gmail: [![Send me an email](/gmail-icon-logo.png)](https://mail.google.com/mail/?view=cm&fs=1&to=young30030prc%40gmail.com)
+- [![Send me an email](/gmail-icon-logo.png)](https://mail.google.com/mail/?view=cm&fs=1&to=young30030prc%40gmail.com)
 
-- My Personal Blog: [![My Blog](/favicon.ico)](https://youngsirspace.github.io/)
+- [![My Blog](/favicon.ico)](https://youngsirspace.github.io/)

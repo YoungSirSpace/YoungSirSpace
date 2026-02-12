@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello there! I am a computer science student of Nanjing University. As a beginner of computer programmer, I hope I can find something enjoyable in this world.
+
+## Contact
+
+- Gmail: [![Send me an email](/gmail-icon-logo.png)](https://mail.google.com/mail/?view=cm&fs=1&to=young30030prc%40gmail.com)
+
+- My Personal Blog: [![My Blog](/favicon.ico)](https://youngsirspace.github.io/)

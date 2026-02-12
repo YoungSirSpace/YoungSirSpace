@@ -23,5 +23,5 @@ Hello there! I am a computer science student of Nanjing University. As a beginne
    target="_blank"
    rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-       alt="Gmail"/>
+       alt="Send me an email via Gmail"/>
 </a>

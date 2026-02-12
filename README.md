@@ -1,23 +1,13 @@
 ## ~~ようこそ。このワルドへ…~~
 
-<!--
-**YoungSirSpace/YoungSirSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am a computer science student at Nanjing University.
 
-Here are some ideas to get you started:
+As an early-stage programmer, I am interested in exploring various topics in
+computer science and gradually building a technical foundation.
+I enjoy experimenting, reading, and thinking about both theory and practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hello there! I am a computer science student of Nanjing University. As a beginner of computer programmer, I hope I can find something enjoyable in this world.
-
-Here is my [**personal blog**](https://youngsirspace.github.io/). I am still polishing it. If convinient, please feel free to read.
+I also maintain a [**personal blog**](https://youngsirspace.github.io/) where I write about my learning notes and thoughts.
+It is still a work under development, but you are very welcome to take a look.
 
 ## Contact
 

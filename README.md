@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 
 Hello there! I am a computer science student of Nanjing University. As a beginner of computer programmer, I hope I can find something enjoyable in this world.
 
+Here is my [**personal blog**](https://youngsirspace.github.io/). I am still polishing it. If convinient, please feel free to read.
+
 ## Contact
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=young30030prc%40gmail.com"
-   target="_blank"
-   rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-       alt="Send me an email via Gmail"/>
-</a>
+[![Send me an email via Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=young30030prc%40gmail.com)

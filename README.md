@@ -11,7 +11,7 @@ It is still a work under development, but you are very welcome to take a look.
 
 ## Visitor Map
 
-<a href='https://mapmyvisitors.com/web/1c2qk'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=CAFGmPbcqTNrbH_uv0867cHJoQ66HSFjzToV-H8FhKU&co=000000&ct=989898'/></a>
+<a href='https://mapmyvisitors.com/web/1c2qk'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=CAFGmPbcqTNrbH_uv0867cHJoQ66HSFjzToV-H8FhKU&co=0e1116&ct=989898'/></a>
 
 ## Contact
 

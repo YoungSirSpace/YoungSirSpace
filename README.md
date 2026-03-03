@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=YoungSirSpace&style=flat&color=6965c9)
 
+## Introduction
+
 Hello! I am a computer science student at Nanjing University.
 
 As an early-stage programmer, I am interested in exploring various topics in

@@ -1,6 +1,6 @@
 ## ~~ようこそ。このワルドへ…~~
 
-![](https://komarev.com/ghpvc/?username=YoungSirSpace&style=flat&color=6965c9)
+![](https://komarev.com/ghpvc/?username=YoungSirSpace&style=flat&color=be533e)
 
 ## Introduction
 

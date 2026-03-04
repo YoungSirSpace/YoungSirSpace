@@ -1,6 +1,6 @@
 ## ~~ようこそ。このワルドへ…~~
 
-![](https://komarev.com/ghpvc/?username=YoungSirSpace&style=flat-square&color=6965c9)
+![](https://komarev.com/ghpvc/?username=YoungSirSpace&style=flat-square&color=blue)
 
 ## Introduction
 
@@ -15,4 +15,4 @@ It is still a work under development, but you are very welcome to take a look.
 
 ## Contact
 
-[![Send me an email via Gmail](https://img.shields.io/badge/Email-young30030prc%40gmail.com-0078D6?style=for-the-badge&logo=gmail&logoColor=6965c9)](mailto:young30030prc@gmail.com)
+[![Send me an email via Gmail](https://img.shields.io/badge/Email-young30030prc%40gmail.com-0078D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:young30030prc@gmail.com)

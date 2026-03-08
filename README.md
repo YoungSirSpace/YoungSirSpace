@@ -15,4 +15,4 @@ It is still a work under development, but you are very welcome to take a look.
 
 ## Contact
 
-[![Send me an email via Gmail](https://img.shields.io/badge/Email-young30030prc%40gmail.com-0078D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:young30030prc&#64;gmail.com)
+[![Send me an email via Gmail](https://img.shields.io/badge/Email-young30030prc%40gmail.com-0078D6?style=for-the-badge&logo=gmail&logoColor=white&coverageColor=red)](mailto:young30030prc&#64;gmail.com)

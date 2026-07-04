@@ -10,7 +10,7 @@ As an early-stage programmer, I am interested in exploring various topics in
 computer science and gradually building a technical foundation.
 I enjoy experimenting, reading, and thinking about both theory and practice.
 
-I also maintain a [**personal blog**](https://youngsirspace.github.io/) where I write about my learning notes and thoughts.
+I also maintain a [**personal blog**](https://youngsirspace.net/) where I write about my learning notes and thoughts.
 It is still a work under development, but you are very welcome to take a look.
 
 ## Contact
